@@ -107,7 +107,7 @@ https://user-images.githubusercontent.com/78424526/169817256-f3e63f6f-9dd3-4b5a-
 
 ### Who's behind Encore?
 
-Encore was founded by long-time backend engineers from Spotify, Google and Monzo with over 50 years of collective experience. We’ve lived through the challenges of building complex distributed systems with thousands of services, and scaling to hundreds of millions of users.
+Encore was founded by long-time backend engineers from Spotify, Google and Monzo with over 50 years of collective experience. We’ve lived through the challenges of building complex distributed systems with thousands of services and scaling to hundreds of millions of users.
 
 Encore grew out of these experiences and is a solution to the frustrations that came with them: unnecessary crippling complexity and constant repetition of undifferentiated work that suffocates the developer’s creativity. With Encore, we want to set developers free to achieve their creative potential.
 
